@@ -25,7 +25,7 @@ This is a modern front-end web app built using **React and Vite**, with cloud su
 ---
 
 ## 🧱 Project Structure
-
+```
 webapp-cloud/
 ├── amplify/ # AWS Amplify backend config
 │ └── (CLI-generated files)
@@ -44,6 +44,8 @@ webapp-cloud/
 ├── package.json # Project dependencies
 ├── package-lock.json
 └── README.md # Project documentation
+```
+
 ---
 
 ## Installation & Running Locally
