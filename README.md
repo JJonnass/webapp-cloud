@@ -1,8 +1,34 @@
-# React + Vite
+# ☁️ WebApp Cloud – React + Vite + AWS Amplify
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern front-end web app built using **React and Vite**, with cloud support via **AWS Amplify**. The application includes basic user profile functionality and serves as a foundation for scalable, cloud-based web apps.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+
+🔗 [Add your deployed app URL here — Netlify, Vercel, or Amplify Hosting]
+
+---
+
+## ⚙️ Features
+
+- ⚛️ React 18 + Vite for blazing-fast front-end performance
+- 🔐 AWS Amplify authentication & config
+- 👤 User Profile Component with props
+- 📁 Clean folder structure with component-based architecture
+- ✏️ ESLint + Babel for code quality and compatibility
+
+---
+
+## 🛠️ Tech Stack
+
+- React 18
+- Vite
+- AWS Amplify (Auth, Hosting)
+- JavaScript (JSX)
+- Babel, ESLint
+
+---
+
+## 🧱 Project Structure
+
