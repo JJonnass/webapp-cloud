@@ -27,23 +27,23 @@ This is a modern front-end web app built using **React and Vite**, with cloud su
 ## 🧱 Project Structure
 ```
 webapp-cloud/
-├── amplify/ # AWS Amplify backend config
+├── amplify/                                             # AWS Amplify backend config
 │ └── (CLI-generated files)
-├── public/ # Static files and Vite icon
+├── public/                                              # Static files and Vite icon
 │ └── vite.svg
-├── src/ # App source files
-│ ├── assets/ # Images or icons (optional)
-│ ├── components/ # Reusable components
+├── src/                                                 # App source files
+│ ├── assets/                                            # Images or icons (optional)
+│ ├── components/                                        # Reusable components
 │ │ └── UserProfile.jsx # Displays user name/email
-│ ├── App.jsx # Main app structure
-│ └── main.jsx # React DOM mount point
+│ ├── App.jsx                                            # Main app structure
+│ └── main.jsx                                           # React DOM mount point
 ├── .gitignore
-├── index.html # Entry HTML file
-├── vite.config.js # Vite config
-├── eslint.config.js # Linting rules
-├── package.json # Project dependencies
+├── index.html                                           # Entry HTML file
+├── vite.config.js                                       # Vite config
+├── eslint.config.js                                     # Linting rules
+├── package.json                                         # Project dependencies
 ├── package-lock.json
-└── README.md # Project documentation
+└── README.md                                            # Project documentation
 ```
 
 ---
